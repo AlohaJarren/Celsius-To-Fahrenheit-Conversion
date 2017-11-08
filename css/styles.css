@@ -1,0 +1,19 @@
+body {
+      font-size: 27px;
+      margin-left: 35%;
+      border-style: solid;
+      margin-right: 27%;
+      background-color: #009B83;
+      margin-top: 6%;
+    }
+    .space {
+      text-decoration: underline;
+    }
+
+    #fah {
+      color: #7e0000;
+    }
+
+    #cel {
+      color: #003366;
+    }
